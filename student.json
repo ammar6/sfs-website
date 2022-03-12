@@ -1,0 +1,29 @@
+{
+   "success":true,
+   "data":{
+      "student_detail":{
+         "id":23,
+         "admission_no":84025,
+         "roll_no":26175,
+         "first_name":"Safi",
+         "last_name":"Ullah",
+         "full_name":"Safi Ullah",
+         "date_of_birth":"1993-11-05",
+         "caste":"Asian",
+         "email":"safi@gmail.com",
+         "mobile":"88012345671",
+         "admission_date":"2009-06-02",
+         "student_photo":"public\/uploads\/student\/student.jpg",
+         "class_id":5,
+         "section_id":3,
+         "session_id":1,
+         "parent_id":23,
+         "user_id":53,
+         "role_id":2,
+         "gender_id":2,
+         "created_by":1,
+         "updated_by":1,
+         "school_id":1
+      }
+   }
+}
