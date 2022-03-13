@@ -12876,3 +12876,14 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+
+/* My Custom CSS */
+.gdlr-core-column-service-content {
+text-align: justify;
+text-justify: inter-word;
+}
+
+.gdlr-core-column-service-media, h3.gdlr-core-column-service-title {
+  text-align: center;
+}
